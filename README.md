@@ -7,9 +7,8 @@ El proyecto ha sido desarrollado como parte del programa Oracle Next Education e
 ![Challenge Alura Latam + Oracle](https://raw.githubusercontent.com/EduardoUT/Encriptador-Oracle-ONE-Challenge/master/img/challengeImage.jpg)
 
 **Página Web:**
-https://eduardout.github.io/Encriptador-Oracle-ONE-Challenge/
 
-Publicado en el topic: https://github.com/topics/challengeonelogicalatam
+
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
